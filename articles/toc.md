@@ -70,6 +70,8 @@
 
 ## [Coming from Netick 1](coming-from-netick-1.md)
 
+## [Port Forward](port-forward.md)
+
 # Built-in Components
 
 ## [Network Transform](built-in-components/networktransform.md)
